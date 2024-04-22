@@ -1,3 +1,5 @@
 run command 
 
 g++ -fopenmp program_name.cpp -o program_name
+
+./program_name
